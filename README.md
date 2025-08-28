@@ -1,15 +1,34 @@
-# WebDev41
+# WebDev41 – Ski Resort Website 
 Devtrack project cycle-Web Dev 41-resort website
 
 This project entails the development of a comprehensive ski resort website, designed to provide the clientele with a seamless and informative digital experience. The website aims to serve as a virtual gateway to the ski resort, offering essential information, captivating visuals, and user-friendly navigation to enhance the resort's online presence and promote engagement.
 
+---
 
-The main objectives of our website is,
+## 🎯 Objectives  
 
-1.Online Presence: Create a basic online platform that introduces the ski resort to the clientele.
+1. **Online Presence**  
+   Establish a professional platform that introduces the ski resort to visitors and strengthens its digital identity.  
 
-2.Information Hub: Provide fundamental information about the resort, including accommodations, activities, and contact details.
+2. **Information Hub**  
+   Provide essential details about accommodations, activities, amenities, and contact information in a clear and structured manner.  
 
-3.Visual Appeal: Develop a visually appealing website with ski resort-themed design elements.
+3. **Visual Appeal**  
+   Implement ski resort–themed design elements and immersive visuals that reflect both adventure and relaxation.  
 
-4.Responsive Design: Ensure the website is mobile-friendly and accessible on various devices.
+4. **Responsive Design**  
+   Ensure full compatibility across desktops, tablets, and mobile devices for effortless accessibility.  
+
+---
+
+## 🛠️ Tech Stack   
+- **Frontend**: HTML5, CSS3, JavaScript  
+
+---
+
+## 🚀 Features   
+- Interactive homepage with scenic visuals  
+- Detailed accommodation and activity pages  
+- Contact and booking section  
+- Fully responsive layout  
+
